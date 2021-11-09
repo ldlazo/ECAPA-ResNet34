@@ -1,5 +1,5 @@
 # ECAPA-ResNet34
-ECAPA TDNN and ResNet34 from [this paper](https://arxiv.org/pdf/2010.12468.pdf)
+ECAPA TDNN and ResNet34 from [this paper](https://arxiv.org/pdf/2010.12468.pdf).
 
 Implementation of ECAPA TDNN with Dynamic Dilation, except for the first directly connected group, the 7 remaining groups in the central Res2Net convolutions have dilation factors of 2, 3, 4, 5, 6, 2, and 3 respectively.
 
